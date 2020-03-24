@@ -1,4 +1,4 @@
-=== CirklePay Payment Gateway WooCommerce ===
+=== CirklePay Payment Gateway ===
 Contributors: umernaeem217
 Tags: ecommerce, e-commerce, commerce, woothemes, wordpress ecommerce, store, sales, sell, shop, shopping, cart, checkout, configurable, cirklepay
 Requires at least: 4.4
