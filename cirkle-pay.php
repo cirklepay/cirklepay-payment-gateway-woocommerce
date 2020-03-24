@@ -13,7 +13,7 @@
  * @package           Cirkle_Pay
  *
  * @wordpress-plugin
- * Plugin Name:       CirklePay Payment Gateway Woocommerce
+ * Plugin Name:       CirklePay Payment Gateway
  * Plugin URI:        https://www.cirklepay.com/
  * Description:       The easiest way to accept, process and disburse digital payments for businesses.
  * Version:           1.0.0
